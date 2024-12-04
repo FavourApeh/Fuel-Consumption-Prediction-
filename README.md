@@ -1,7 +1,9 @@
 # Fuel-Consumption-Prediction-
 **Overview**
+
 This project predicts vehicle fuel consumption (in L/100 km) using machine learning models. The prediction is based on various vehicle characteristics, including engine size, cylinder count, CO2 emissions, and other specifications. The application is deployed via a Flask API for real-time predictions.
 **Features**
+
 Machine Learning Models: Linear Regression and Random Forest Regressor.
 End-to-End Workflow: Data cleaning, feature engineering, model training, evaluation, and deployment.
 API Deployment: Flask-based API for easy integration with other applications.
